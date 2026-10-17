@@ -1,0 +1,6 @@
+{
+  "name": "Agro Brasil Insumos Agrícolas",
+  "description": "Site institucional oficial da Agro Brasil Insumos Agrícolas Ltda. em Sorriso – MT. Atacado de produtos e insumos agrícolas com presença e assistência técnica no campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
